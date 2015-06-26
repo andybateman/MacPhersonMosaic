@@ -1,10 +1,10 @@
 body { margin: 10px; padding:0; }
 
-textarea { width: 475px; height: 80px; }
+textarea { width: 500px; height: 80px; }
 
-button {
-	display: block;
-}
+button { display: block; }
+
+table { width: 500px; }
 
 table, th, td {
     border: 1px solid black;
