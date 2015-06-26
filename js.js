@@ -19,7 +19,6 @@ function countColours(searchTerm) {
 	} else {
 		result = 0;
 	}
-	;
 	return result;
 }
 
